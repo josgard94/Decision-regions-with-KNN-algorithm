@@ -1,5 +1,5 @@
 # Decision-regions-with-KNN-algorithm
-autor: Edgard Díaz
+Author: Edgard Díaz
 
 date: 10 - 04 - 2020
 
