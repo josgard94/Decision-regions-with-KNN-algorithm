@@ -1,5 +1,6 @@
-%
-%   implementaci�n del algoritmo knn
+%   Author: Edgard Díaz
+%   Date: 10 - 04 - 2020
+%   implementación del algoritmo knn
 %
 function S = knn(xi,xt,k)
     si = zeros(length(xi),1);
